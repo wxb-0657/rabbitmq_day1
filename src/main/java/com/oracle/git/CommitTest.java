@@ -10,5 +10,7 @@ public class CommitTest {
         System.out.println("hot-fix commit 2 !!");
 
         System.out.println("push test!");
+        
+        System.out.println("pull test!");
     }
 }
